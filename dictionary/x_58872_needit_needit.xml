@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Needit" max_length="40" name="x_58872_needit_needit" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Cost Center" max_length="40" name="u_costcenter" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Label-1057021" sequence="0" value="1057021"/>
+                <element inactive_on_update="false" label="Label-1057022" sequence="1" value="1057022"/>
+                <element inactive_on_update="false" label="Label-1057023" sequence="2" value="1057023"/>
+            </choice>
+        </element>
+    </element>
+</database>
